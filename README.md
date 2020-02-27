@@ -74,9 +74,9 @@ poem for this magazine. Please submit anything within 5 March 2020.</p>
 <div align="center" id="name5">
 <h1 align="center">Mentors</h1>
 <p align="center">English: Safayat Al Jabir<br>
-Science: Rehman Zabir<br>
+Science: Rehman Zabeer<br>
 GK: Mitaly<br>
-Bangla: Ononno<br>
+Bangla: Anonno<br>
 ICT: Joti<br>
 Math: Anando<br>
 </p>
@@ -89,4 +89,4 @@ Math: Anando<br>
 </div>
 
 </body>
-</ht
+</html>
