@@ -87,6 +87,5 @@ Math: Anando<br>
 <p align="center"><b>Facebook Group:</b>CEL(Combined Educational League)</p>
 <p align="center"><b>Website (temp):</b><a href="cel2020.github.io/home.html">cel2020.github.io/home</a></p>
 </div>
-
 </body>
 </html>
